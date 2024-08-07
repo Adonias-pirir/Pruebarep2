@@ -1,6 +1,7 @@
 import java.util.Scanner;
 /**
  * Esta es la clase ConversionDolar que se encarga de determinar
+ * Actualizando repositorio
  * cuantós dólares se puede adquirir con x cantidad de quetzales.
  * @author Adonias Pirir
  * since 2024-08-01
